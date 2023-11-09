@@ -1,0 +1,583 @@
+{
+    "ErrorMessage": null,
+    "LastUpdated": "07-Nov-2023 23:45:00",
+    "Rows": [
+        {
+            "EffectiveTime": "07-Nov-2023 00:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2165
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 00:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2135
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 00:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2097
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 00:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2100
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 01:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2042
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 01:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1924
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 01:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1885
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 01:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1876
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 02:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1815
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 02:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1803
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 02:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1742
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 02:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1735
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 03:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1700
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 03:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1734
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 03:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1660
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 03:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1672
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 04:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1744
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 04:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1863
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 04:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1855
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 04:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1825
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 05:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1905
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 05:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1865
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 05:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1804
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 05:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1841
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 06:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1798
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 06:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1802
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 06:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1720
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 06:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1683
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 07:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1652
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 07:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1639
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 07:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1617
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 07:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1570
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 08:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1473
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 08:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1393
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 08:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1335
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 08:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1320
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 09:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1279
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 09:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1228
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 09:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1140
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 09:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1062
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 10:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 983
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 10:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 930
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 10:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 865
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 10:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 827
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 11:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 843
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 11:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 916
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 11:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 963
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 11:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1027
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 12:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1067
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 12:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1074
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 12:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1005
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 12:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1005
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 13:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 988
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 13:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 960
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 13:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 947
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 13:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 957
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 14:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1011
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 14:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 945
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 14:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 832
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 14:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 784
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 15:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 757
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 15:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 758
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 15:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 762
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 15:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 760
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 16:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 806
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 16:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 788
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 16:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 873
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 16:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 941
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 17:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 980
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 17:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1094
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 17:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1194
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 17:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1219
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 18:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1318
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 18:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1373
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 18:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1508
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 18:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1656
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 19:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1841
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 19:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 1925
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 19:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2042
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 19:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2143
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 20:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2263
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 20:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2326
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 20:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2452
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 20:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2594
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 21:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2722
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 21:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2866
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 21:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2820
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 21:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2903
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 22:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2844
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 22:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2830
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 22:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2948
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 22:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 3099
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 23:00:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2887
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 23:15:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2927
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 23:30:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 2958
+        },
+        {
+            "EffectiveTime": "07-Nov-2023 23:45:00",
+            "FieldName": "WIND_ACTUAL",
+            "Region": "ALL",
+            "Value": 3081
+        }
+    ],
+    "Status": "Success"
+}
