@@ -1,582 +1,582 @@
 {
     "ErrorMessage": null,
-    "LastUpdated": "09-Nov-2023 20:30:00",
+    "LastUpdated": "09-Nov-2023 23:45:00",
     "Rows": [
         {
             "EffectiveTime": "09-Nov-2023 00:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2792
+            "Value": 4227
         },
         {
             "EffectiveTime": "09-Nov-2023 00:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2871
+            "Value": 4368
         },
         {
             "EffectiveTime": "09-Nov-2023 00:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2971
+            "Value": 4465
         },
         {
             "EffectiveTime": "09-Nov-2023 00:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3016
+            "Value": 4541
         },
         {
             "EffectiveTime": "09-Nov-2023 01:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2981
+            "Value": 4581
         },
         {
             "EffectiveTime": "09-Nov-2023 01:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2930
+            "Value": 4687
         },
         {
             "EffectiveTime": "09-Nov-2023 01:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3032
+            "Value": 4630
         },
         {
             "EffectiveTime": "09-Nov-2023 01:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3117
+            "Value": 4559
         },
         {
             "EffectiveTime": "09-Nov-2023 02:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2978
+            "Value": 4421
         },
         {
             "EffectiveTime": "09-Nov-2023 02:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2929
+            "Value": 4365
         },
         {
             "EffectiveTime": "09-Nov-2023 02:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2832
+            "Value": 4278
         },
         {
             "EffectiveTime": "09-Nov-2023 02:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2782
+            "Value": 4213
         },
         {
             "EffectiveTime": "09-Nov-2023 03:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2733
+            "Value": 4183
         },
         {
             "EffectiveTime": "09-Nov-2023 03:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2813
+            "Value": 4241
         },
         {
             "EffectiveTime": "09-Nov-2023 03:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2775
+            "Value": 4155
         },
         {
             "EffectiveTime": "09-Nov-2023 03:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2667
+            "Value": 4111
         },
         {
             "EffectiveTime": "09-Nov-2023 04:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2664
+            "Value": 4166
         },
         {
             "EffectiveTime": "09-Nov-2023 04:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2813
+            "Value": 4291
         },
         {
             "EffectiveTime": "09-Nov-2023 04:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2833
+            "Value": 4293
         },
         {
             "EffectiveTime": "09-Nov-2023 04:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2837
+            "Value": 4313
         },
         {
             "EffectiveTime": "09-Nov-2023 05:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3012
+            "Value": 4506
         },
         {
             "EffectiveTime": "09-Nov-2023 05:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2963
+            "Value": 4699
         },
         {
             "EffectiveTime": "09-Nov-2023 05:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2974
+            "Value": 4591
         },
         {
             "EffectiveTime": "09-Nov-2023 05:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2958
+            "Value": 4578
         },
         {
             "EffectiveTime": "09-Nov-2023 06:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2988
+            "Value": 4750
         },
         {
             "EffectiveTime": "09-Nov-2023 06:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2959
+            "Value": 5040
         },
         {
             "EffectiveTime": "09-Nov-2023 06:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3092
+            "Value": 5159
         },
         {
             "EffectiveTime": "09-Nov-2023 06:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3082
+            "Value": 5157
         },
         {
             "EffectiveTime": "09-Nov-2023 07:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3028
+            "Value": 5158
         },
         {
             "EffectiveTime": "09-Nov-2023 07:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3005
+            "Value": 5308
         },
         {
             "EffectiveTime": "09-Nov-2023 07:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 3018
+            "Value": 5297
         },
         {
             "EffectiveTime": "09-Nov-2023 07:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2943
+            "Value": 5365
         },
         {
             "EffectiveTime": "09-Nov-2023 08:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2895
+            "Value": 5337
         },
         {
             "EffectiveTime": "09-Nov-2023 08:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2805
+            "Value": 5249
         },
         {
             "EffectiveTime": "09-Nov-2023 08:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2781
+            "Value": 5179
         },
         {
             "EffectiveTime": "09-Nov-2023 08:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2765
+            "Value": 5174
         },
         {
             "EffectiveTime": "09-Nov-2023 09:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2751
+            "Value": 5082
         },
         {
             "EffectiveTime": "09-Nov-2023 09:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2703
+            "Value": 5005
         },
         {
             "EffectiveTime": "09-Nov-2023 09:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2732
+            "Value": 4901
         },
         {
             "EffectiveTime": "09-Nov-2023 09:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2693
+            "Value": 4931
         },
         {
             "EffectiveTime": "09-Nov-2023 10:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2624
+            "Value": 4915
         },
         {
             "EffectiveTime": "09-Nov-2023 10:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2577
+            "Value": 4890
         },
         {
             "EffectiveTime": "09-Nov-2023 10:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2555
+            "Value": 4921
         },
         {
             "EffectiveTime": "09-Nov-2023 10:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2507
+            "Value": 4940
         },
         {
             "EffectiveTime": "09-Nov-2023 11:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2499
+            "Value": 4949
         },
         {
             "EffectiveTime": "09-Nov-2023 11:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2434
+            "Value": 4879
         },
         {
             "EffectiveTime": "09-Nov-2023 11:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2462
+            "Value": 4831
         },
         {
             "EffectiveTime": "09-Nov-2023 11:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2480
+            "Value": 4758
         },
         {
             "EffectiveTime": "09-Nov-2023 12:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2486
+            "Value": 4770
         },
         {
             "EffectiveTime": "09-Nov-2023 12:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2459
+            "Value": 4853
         },
         {
             "EffectiveTime": "09-Nov-2023 12:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2349
+            "Value": 4809
         },
         {
             "EffectiveTime": "09-Nov-2023 12:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2479
+            "Value": 4842
         },
         {
             "EffectiveTime": "09-Nov-2023 13:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2370
+            "Value": 4875
         },
         {
             "EffectiveTime": "09-Nov-2023 13:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2341
+            "Value": 4951
         },
         {
             "EffectiveTime": "09-Nov-2023 13:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2352
+            "Value": 4907
         },
         {
             "EffectiveTime": "09-Nov-2023 13:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2436
+            "Value": 4861
         },
         {
             "EffectiveTime": "09-Nov-2023 14:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2385
+            "Value": 4803
         },
         {
             "EffectiveTime": "09-Nov-2023 14:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2451
+            "Value": 4755
         },
         {
             "EffectiveTime": "09-Nov-2023 14:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2384
+            "Value": 4726
         },
         {
             "EffectiveTime": "09-Nov-2023 14:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2261
+            "Value": 4682
         },
         {
             "EffectiveTime": "09-Nov-2023 15:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2184
+            "Value": 4622
         },
         {
             "EffectiveTime": "09-Nov-2023 15:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 1967
+            "Value": 4662
         },
         {
             "EffectiveTime": "09-Nov-2023 15:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 1906
+            "Value": 4757
         },
         {
             "EffectiveTime": "09-Nov-2023 15:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2022
+            "Value": 4870
         },
         {
             "EffectiveTime": "09-Nov-2023 16:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 1973
+            "Value": 4833
         },
         {
             "EffectiveTime": "09-Nov-2023 16:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 1903
+            "Value": 4855
         },
         {
             "EffectiveTime": "09-Nov-2023 16:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 1895
+            "Value": 4941
         },
         {
             "EffectiveTime": "09-Nov-2023 16:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 1871
+            "Value": 5070
         },
         {
             "EffectiveTime": "09-Nov-2023 17:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2053
+            "Value": 5248
         },
         {
             "EffectiveTime": "09-Nov-2023 17:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2135
+            "Value": 5360
         },
         {
             "EffectiveTime": "09-Nov-2023 17:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2316
+            "Value": 5431
         },
         {
             "EffectiveTime": "09-Nov-2023 17:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2291
+            "Value": 5413
         },
         {
             "EffectiveTime": "09-Nov-2023 18:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2205
+            "Value": 5353
         },
         {
             "EffectiveTime": "09-Nov-2023 18:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2294
+            "Value": 5281
         },
         {
             "EffectiveTime": "09-Nov-2023 18:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2368
+            "Value": 5215
         },
         {
             "EffectiveTime": "09-Nov-2023 18:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2377
+            "Value": 5163
         },
         {
             "EffectiveTime": "09-Nov-2023 19:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2314
+            "Value": 5049
         },
         {
             "EffectiveTime": "09-Nov-2023 19:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2336
+            "Value": 5015
         },
         {
             "EffectiveTime": "09-Nov-2023 19:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2427
+            "Value": 4954
         },
         {
             "EffectiveTime": "09-Nov-2023 19:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2333
+            "Value": 4871
         },
         {
             "EffectiveTime": "09-Nov-2023 20:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2300
+            "Value": 4810
         },
         {
             "EffectiveTime": "09-Nov-2023 20:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2339
+            "Value": 4754
         },
         {
             "EffectiveTime": "09-Nov-2023 20:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": 2355
+            "Value": 4648
         },
         {
             "EffectiveTime": "09-Nov-2023 20:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4585
         },
         {
             "EffectiveTime": "09-Nov-2023 21:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4589
         },
         {
             "EffectiveTime": "09-Nov-2023 21:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4508
         },
         {
             "EffectiveTime": "09-Nov-2023 21:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4476
         },
         {
             "EffectiveTime": "09-Nov-2023 21:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4290
         },
         {
             "EffectiveTime": "09-Nov-2023 22:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4168
         },
         {
             "EffectiveTime": "09-Nov-2023 22:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 4033
         },
         {
             "EffectiveTime": "09-Nov-2023 22:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 3902
         },
         {
             "EffectiveTime": "09-Nov-2023 22:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 3786
         },
         {
             "EffectiveTime": "09-Nov-2023 23:00:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 3678
         },
         {
             "EffectiveTime": "09-Nov-2023 23:15:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 3807
         },
         {
             "EffectiveTime": "09-Nov-2023 23:30:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 3786
         },
         {
             "EffectiveTime": "09-Nov-2023 23:45:00",
-            "FieldName": "WIND_ACTUAL",
+            "FieldName": "GEN_EXP",
             "Region": "ALL",
-            "Value": null
+            "Value": 3712
         }
     ],
     "Status": "Success"
