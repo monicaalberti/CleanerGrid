@@ -1,6 +1,6 @@
 {
     "ErrorMessage": null,
-    "LastUpdated": "09-Nov-2023 20:30:00",
+    "LastUpdated": "09-Nov-2023 23:45:00",
     "Rows": [
         {
             "EffectiveTime": "09-Nov-2023 00:00:00",
@@ -504,79 +504,79 @@
             "EffectiveTime": "09-Nov-2023 20:45:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 5544
         },
         {
             "EffectiveTime": "09-Nov-2023 21:00:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 5477
         },
         {
             "EffectiveTime": "09-Nov-2023 21:15:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 5329
         },
         {
             "EffectiveTime": "09-Nov-2023 21:30:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 5235
         },
         {
             "EffectiveTime": "09-Nov-2023 21:45:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 5100
         },
         {
             "EffectiveTime": "09-Nov-2023 22:00:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4976
         },
         {
             "EffectiveTime": "09-Nov-2023 22:15:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4851
         },
         {
             "EffectiveTime": "09-Nov-2023 22:30:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4735
         },
         {
             "EffectiveTime": "09-Nov-2023 22:45:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4638
         },
         {
             "EffectiveTime": "09-Nov-2023 23:00:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4544
         },
         {
             "EffectiveTime": "09-Nov-2023 23:15:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4528
         },
         {
             "EffectiveTime": "09-Nov-2023 23:30:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4427
         },
         {
             "EffectiveTime": "09-Nov-2023 23:45:00",
             "FieldName": "SYSTEM_DEMAND",
             "Region": "ALL",
-            "Value": null
+            "Value": 4335
         }
     ],
     "Status": "Success"
