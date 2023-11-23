@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href=" {{ url_for('static',filename='style.css') }} " />
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <title>EirGrid - Renewable Energy</title>
+    </head>
+ 
+    <body>
+        <header>
+            <h1> EirGrid - Renewable Energy </h1>
+            <ul>
+                <li><a href= " {{ url_for('index') }} ">Home</a></li>
+                {% if g.user %}
+                    <li> User id: {{ g.user }} </li>
+                    <li><a href = " {{ url_for('logout') }} ">Logout</a></li>
+                    <li><a href = " {{ url_for('MyAccount') }} ">MyAccount</a></li>
+                {% else %}
+                    <li><a href= " {{ url_for('register') }} ">Register</a></li>
+                    <li><a href= " {{ url_for('login') }} ">Login</a></li>
+                {% endif %}
+            <ul>
+        </header>
+        <nav>
+            {% block nav %}
+            {% endblock %}
+        </nav>
+        <main>
+            {% block main_content %}
+            {% endblock %}
+        </main>
+
+    </body>
