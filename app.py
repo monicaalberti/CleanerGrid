@@ -77,3 +77,30 @@ def logout():
     session.clear()
     return redirect( url_for("index") )
 
+@app.route("/energy_use",methods=["GET","POST"])
+def energyUse():
+    form = EnergyUseForm()
+    if form.validate_on_submit():
+        selections = form.selections.data
+        total = 0 
+        for i in selections :
+            print(i)
+            if i == "lighting":
+                total += 100
+            elif i == "heating":
+                total += 1000
+            elif i == "landry":
+                total += 1000
+            elif i == "entertainment equipments":
+                total +=  1100
+            elif i == "fridge":
+                total += 1000
+            else:
+                total += 1200
+                
+        if total >= 5000 :    
+            return render_template("advices.html")
+                    
+            
+    return render_template("energyUse.html", form = form)
+
