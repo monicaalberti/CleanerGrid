@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+
+    <form action="" method="POST" novalidate>
+        {{ form.hidden_tag() }}
+        {{ form.selections.label }}
+        {% for choice in form.selections.choices %}
+            <p> {{ "\n" }} </p>
+            <input type="checkbox" id="{{ form.selections.id }}" name="{{ form.selections.name }}" value="{{ choice }}">
+            <label>{{ choice }}</label>  
+        {% endfor %}
+        <br />
+        {{ form.submit() }}
+    </form>
+
+{% endblock %}
