@@ -12,3 +12,11 @@ class UserLoginForm(FlaskForm):
     user_id = StringField("User id :", validators=[InputRequired()])
     password = PasswordField("Password:", validators=[InputRequired()])
     submit = SubmitField("Login")
+
+class EnergyUseForm(FlaskForm):
+    choices = ["lighting", "heating", "landry", "entertainment equipments", "fridge", "cooking facilities"]
+    
+    selections = SelectMultipleField('Make a selection of the equipment you have done to day at home:',
+                                     choices=choices, validators =[DataRequired()])
+    
+    submit = SubmitField('Submit')
